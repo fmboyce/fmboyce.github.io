@@ -1,0 +1,15 @@
+.button {
+    padding: 1.05rem 2.75rem;
+    color: #afdc27;
+    background-color: #fff;
+    font-size: 1.2rem;
+    font-weight: 300;
+    text-transform: uppercase;
+    border-radius: 12rem;
+    border: .2rem solid #afdc27;
+    -webkit-transition: color .3s,border .3s;
+    transition: color .3s,border .3s;
+
+.barontop {
+    color: #afdc27;
+}
